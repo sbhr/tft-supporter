@@ -1,0 +1,323 @@
+{
+  "components": [
+    { "id": "bf_sword", "name": "B.F.ソード" },
+    { "id": "recurve_bow", "name": "リカーブボウ" },
+    { "id": "needlessly_large_rod", "name": "ムダニデカイロッド" },
+    { "id": "tear_of_the_goddess", "name": "女神の涙" },
+    { "id": "chain_vest", "name": "チェインベスト" },
+    { "id": "negatron_cloak", "name": "ネガトロンクローク" },
+    { "id": "giants_belt", "name": "ジャイアントベルト" },
+    { "id": "sparring_gloves", "name": "スパーリンググローブ" },
+    { "id": "spatula", "name": "ヘラ" },
+    { "id": "frying_pan", "name": "フライパン" }
+  ],
+  "completedItems": [
+    {
+      "id": "deathblade",
+      "name": "デスブレード",
+      "recipe": ["bf_sword", "bf_sword"]
+    },
+    {
+      "id": "giant_slayer",
+      "name": "ジャイアントスレイヤー",
+      "recipe": ["bf_sword", "recurve_bow"]
+    },
+    {
+      "id": "hextech_gunblade",
+      "name": "ヘクステックガンブレード",
+      "recipe": ["bf_sword", "needlessly_large_rod"]
+    },
+    {
+      "id": "spear_of_shojin",
+      "name": "ショウジンの矛",
+      "recipe": ["bf_sword", "tear_of_the_goddess"]
+    },
+    {
+      "id": "edge_of_night",
+      "name": "ナイトエッジ",
+      "recipe": ["bf_sword", "chain_vest"]
+    },
+    {
+      "id": "bloodthirster",
+      "name": "ブラッドサースター",
+      "recipe": ["bf_sword", "negatron_cloak"]
+    },
+    {
+      "id": "steraks_gage",
+      "name": "ステラックの篭手",
+      "recipe": ["bf_sword", "giants_belt"]
+    },
+    {
+      "id": "infinity_edge",
+      "name": "インフィニティ・エッジ",
+      "recipe": ["bf_sword", "sparring_gloves"]
+    },
+    {
+      "id": "combo_bf_sword_spatula",
+      "name": "ノクサスの紋章",
+      "recipe": ["bf_sword", "spatula"]
+    },
+    {
+      "id": "combo_bf_sword_frying_pan",
+      "name": "スレイヤーの紋章",
+      "recipe": ["bf_sword", "frying_pan"]
+    },
+    {
+      "id": "red_buff",
+      "name": "レッドバフ",
+      "recipe": ["recurve_bow", "recurve_bow"]
+    },
+    {
+      "id": "guinsoos_rageblade",
+      "name": "グインソー・レイジブレード",
+      "recipe": ["recurve_bow", "needlessly_large_rod"]
+    },
+    {
+      "id": "statikk_shiv",
+      "name": "ヴォイドスタッフ",
+      "recipe": ["recurve_bow", "tear_of_the_goddess"]
+    },
+    {
+      "id": "titans_resolve",
+      "name": "巨人の誓い",
+      "recipe": ["recurve_bow", "chain_vest"]
+    },
+    {
+      "id": "runaans_hurricane",
+      "name": "クラーケンの怒り",
+      "recipe": ["recurve_bow", "negatron_cloak"]
+    },
+    {
+      "id": "red_buff",
+      "name": "レッドバフ",
+      "recipe": ["recurve_bow", "giants_belt"]
+    },
+    {
+      "id": "last_whisper",
+      "name": "ラストウィスパー",
+      "recipe": ["recurve_bow", "sparring_gloves"]
+    },
+    {
+      "id": "combo_recurve_bow_spatula",
+      "name": "ヴォイドの紋章",
+      "recipe": ["recurve_bow", "spatula"]
+    },
+    {
+      "id": "combo_recurve_bow_frying_pan",
+      "name": "韋駄天の紋章",
+      "recipe": ["recurve_bow", "frying_pan"]
+    },
+    {
+      "id": "rabadons_deathcap",
+      "name": "ラバドン・デスキャップ",
+      "recipe": ["needlessly_large_rod", "needlessly_large_rod"]
+    },
+    {
+      "id": "archangels_staff",
+      "name": "アークエンジェルスタッフ",
+      "recipe": ["needlessly_large_rod", "tear_of_the_goddess"]
+    },
+    {
+      "id": "locket_of_the_iron_solari",
+      "name": "クラウンガード",
+      "recipe": ["needlessly_large_rod", "chain_vest"]
+    },
+    {
+      "id": "ionic_spark",
+      "name": "アイオニックスパーク",
+      "recipe": ["needlessly_large_rod", "negatron_cloak"]
+    },
+    {
+      "id": "nashors_tooth",
+      "name": "ナッシャーズ・トゥース",
+      "recipe": ["needlessly_large_rod", "giants_belt"]
+    },
+    {
+      "id": "jeweled_gauntlet",
+      "name": "ジュエルガントレット",
+      "recipe": ["needlessly_large_rod", "sparring_gloves"]
+    },
+    {
+      "id": "combo_needlessly_large_rod_spatula",
+      "name": "アイオニアの紋章",
+      "recipe": ["needlessly_large_rod", "spatula"]
+    },
+    {
+      "id": "combo_needlessly_large_rod_frying_pan",
+      "name": "アルカニストの紋章",
+      "recipe": ["needlessly_large_rod", "frying_pan"]
+    },
+    {
+      "id": "blue_buff",
+      "name": "ブルーバフ",
+      "recipe": ["tear_of_the_goddess", "tear_of_the_goddess"]
+    },
+    {
+      "id": "protectors_vow",
+      "name": "プロテクターの誓い",
+      "recipe": ["tear_of_the_goddess", "chain_vest"]
+    },
+    {
+      "id": "adaptive_helm",
+      "name": "アダプティブヘルム",
+      "recipe": ["tear_of_the_goddess", "negatron_cloak"]
+    },
+    {
+      "id": "redemption",
+      "name": "スピリットビサージュ",
+      "recipe": ["tear_of_the_goddess", "giants_belt"]
+    },
+    {
+      "id": "hand_of_justice",
+      "name": "ハンドオブジャスティス",
+      "recipe": ["tear_of_the_goddess", "sparring_gloves"]
+    },
+    {
+      "id": "combo_tear_of_the_goddess_spatula",
+      "name": "ビルジウォーターの紋章",
+      "recipe": ["tear_of_the_goddess", "spatula"]
+    },
+    {
+      "id": "combo_tear_of_the_goddess_frying_pan",
+      "name": "インヴォーカーの紋章",
+      "recipe": ["tear_of_the_goddess", "frying_pan"]
+    },
+    {
+      "id": "bramble_vest",
+      "name": "ブランブルベスト",
+      "recipe": ["chain_vest", "chain_vest"]
+    },
+    {
+      "id": "gargoyle_stoneplate",
+      "name": "ガーゴイルストーンプレート",
+      "recipe": ["chain_vest", "negatron_cloak"]
+    },
+    {
+      "id": "sunfire_cape",
+      "name": "サンファイアケープ",
+      "recipe": ["chain_vest", "giants_belt"]
+    },
+    {
+      "id": "steadfast_heart",
+      "name": "揺るがぬ心",
+      "recipe": ["chain_vest", "sparring_gloves"]
+    },
+    {
+      "id": "combo_chain_vest_spatula",
+      "name": "デマーシアの紋章",
+      "recipe": ["chain_vest", "spatula"]
+    },
+    {
+      "id": "combo_chain_vest_frying_pan",
+      "name": "ディフェンダーの紋章",
+      "recipe": ["chain_vest", "frying_pan"]
+    },
+    {
+      "id": "dragons_claw",
+      "name": "ドラゴンクロウ",
+      "recipe": ["negatron_cloak", "negatron_cloak"]
+    },
+    {
+      "id": "evenshroud",
+      "name": "イーブンシュラウド",
+      "recipe": ["negatron_cloak", "giants_belt"]
+    },
+    {
+      "id": "quicksilver",
+      "name": "クイックシルバー",
+      "recipe": ["negatron_cloak", "sparring_gloves"]
+    },
+    {
+      "id": "combo_negatron_cloak_spatula",
+      "name": "ヨードルの紋章",
+      "recipe": ["negatron_cloak", "spatula"]
+    },
+    {
+      "id": "combo_negatron_cloak_frying_pan",
+      "name": "ジャガーノートの紋章",
+      "recipe": ["negatron_cloak", "frying_pan"]
+    },
+    {
+      "id": "warmogs_armor",
+      "name": "ワーモグアーマー",
+      "recipe": ["giants_belt", "giants_belt"]
+    },
+    {
+      "id": "guardbreaker",
+      "name": "ガードブレイカー",
+      "recipe": ["giants_belt", "sparring_gloves"]
+    },
+    {
+      "id": "combo_giants_belt_spatula",
+      "name": "フレヨルドの紋章",
+      "recipe": ["giants_belt", "spatula"]
+    },
+    {
+      "id": "combo_giants_belt_frying_pan",
+      "name": "ブルーザーの紋章",
+      "recipe": ["giants_belt", "frying_pan"]
+    },
+    {
+      "id": "thieves_gloves",
+      "name": "盗賊のグローブ",
+      "recipe": ["sparring_gloves", "sparring_gloves"]
+    },
+    {
+      "id": "combo_sparring_gloves_spatula",
+      "name": "ゾウンの紋章",
+      "recipe": ["sparring_gloves", "spatula"]
+    },
+    {
+      "id": "combo_sparring_gloves_frying_pan",
+      "name": "ヴァンキッシャーの紋章",
+      "recipe": ["sparring_gloves", "frying_pan"]
+    },
+    {
+      "id": "tacticians_crown",
+      "name": "タクティシャンの王冠",
+      "recipe": ["spatula", "spatula"]
+    },
+    {
+      "id": "tacticians_cape",
+      "name": "タクティシャンのケープ",
+      "recipe": ["spatula", "frying_pan"]
+    },
+    {
+      "id": "tacticians_shield",
+      "name": "タクティシャンの盾",
+      "recipe": ["frying_pan", "frying_pan"]
+    }
+  ],
+  "comps": [
+    {
+      "id": "ad_flex",
+      "name": "ADフレックス",
+      "description": "物理キャリー中心。序盤の剣・手袋・弓を活かしやすい。",
+      "coreItems": ["infinity_edge", "last_whisper", "guardbreaker"]
+    },
+    {
+      "id": "ap_fast8",
+      "name": "APファスト8",
+      "description": "ロッド・涙ベースで終盤キャリーへ移行しやすい。",
+      "coreItems": ["guinsoos_rageblade", "archangels_staff", "spear_of_shojin"]
+    },
+    {
+      "id": "frontline_flex",
+      "name": "前衛フレックス",
+      "description": "防具を優先して安定進行する構成。",
+      "coreItems": ["sunfire_cape", "evenshroud", "redemption"]
+    },
+    {
+      "id": "tank_stack",
+      "name": "タンクスタック",
+      "description": "重装前衛を強化して連勝を狙う。",
+      "coreItems": ["bramble_vest", "dragons_claw", "redemption"]
+    },
+    {
+      "id": "tempo_ap_reroll",
+      "name": "テンポAPリロール",
+      "description": "序中盤からAP火力を重ねるリロール寄り。",
+      "coreItems": ["blue_buff", "rabadons_deathcap", "nashors_tooth"]
+    }
+  ]
+}
